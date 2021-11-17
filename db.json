@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "kat",
+      "price": "0.01",
+      "image": "https://www.arvinmaleki.com/wp-content/uploads/2020/03/I3.jpg",
+      "id": 8
     }
   ]
 }
